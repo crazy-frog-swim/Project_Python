@@ -1,7 +1,5 @@
-# LIM CHEN YANG
-# TP061455
-# LIM EN YI
-# TP060710
+# MEMBER - 1
+# MEMBER - 2
 
 
 # create id
